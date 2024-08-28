@@ -55,4 +55,5 @@ $header-height: 64px;
 .layout-content {
   height: calc(100vh - 64px);
   overflow: auto;
+  margin: 10px;
 }

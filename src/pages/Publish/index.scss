@@ -1,0 +1,14 @@
+.publish{
+  // padding: 15px;
+
+  .publish-breadcrumb {
+    margin-bottom: 15px;
+    font-weight: 900;
+  }
+  
+  .publish-quill {
+    .ql-editor {
+      min-height: 200px;
+    }
+  }
+}
